@@ -1,7 +1,7 @@
 # Group Documents
  - ❇️  **Reference Sheet**
    -  https://docs.google.com/document/d/1UA2kXYYUCq_KNtrhCaK9sFcNL-3HKSrXLzJINK91UvI/
-       1.  **Georgia Phone List** - [[link](https://docs.google.com/spreadsheets/d/1DuEXgBwPgBrJp6TwwxFqyVMylS4MZSfOm7bX_55n83Q/edit#gid=2063838138)]
+       1.  **Georgia Phone Groups** - [[link](https://docs.google.com/spreadsheets/d/1DuEXgBwPgBrJp6TwwxFqyVMylS4MZSfOm7bX_55n83Q/edit#gid=2063838138)]
        2.  **Call Scripts** - [[link](https://docs.google.com/document/d/1jQMUPVd-GCog5hOK7dWrABEv3DV7n_nvx4xiEGr6zvg/)]
        3.  **Email Scripts** - [[link](https://docs.google.com/document/d/15DMneYQ5lUufkHHT7FNp8MAb2hbaf8YEueZKr2wSMV8/)]
  - ❇️  **Tracking Form**
